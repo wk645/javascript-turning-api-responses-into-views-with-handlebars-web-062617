@@ -45,8 +45,7 @@ We're going to be using some public functions of the [Github
 repositories API](https://developer.github.com/v3/repos/) to illustrate.
 
 Let's create a simple request to list our own public repositories.
-First, we need a way to trigger the request and display the data. Let's
-add this to our `index.html`.
+First, we need a way to trigger the request and display the data. Let's add this to our `index.html`.
 
 ```html
 <body>
